@@ -3,6 +3,7 @@
 This simple JavaScript-based slot machine is designed to provide a fun and interactive experience.
 This game has been tested using Node.js to ensure smooth functionality.
 
+
 **DISCLAIMER:**
 
   This Slot Machine is created solely for entertainment purposes. The project is designed to simulate the experience of a slot machine game in a fun and lighthearted manner.
